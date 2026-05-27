@@ -1,1 +1,12 @@
-
+{
+    "DESIGN_NAME": "ripple_carry_adder",
+    "VERILOG_FILES": "dir::src/*.v",
+    "CLOCK_PORT": null,
+    "CLOCK_PERIOD": 0,
+    "RUN_CTS": 0,
+    "QUIT_ON_TIMING_VIOLATIONS": 0,
+    "FP_SIZING": "absolute",
+    "DIE_AREA": "0 0 150 150",
+    "CORE_AREA": "10 10 140 140",
+    "FP_PDN_MULTIPLE_GRID": 0
+}
